@@ -1,3 +1,3 @@
 # Digital Innovation One
 
-![Logo da DIO](DIO-LOGO.png);
+![Logo da DIO](DIO-LOGO.png)
